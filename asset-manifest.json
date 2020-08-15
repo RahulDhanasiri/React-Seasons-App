@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Seasons-App/static/css/main.6d1caad8.chunk.css",
+    "main.js": "/React-Seasons-App/static/js/main.81f9b831.chunk.js",
+    "main.js.map": "/React-Seasons-App/static/js/main.81f9b831.chunk.js.map",
+    "runtime-main.js": "/React-Seasons-App/static/js/runtime-main.b99f6d28.js",
+    "runtime-main.js.map": "/React-Seasons-App/static/js/runtime-main.b99f6d28.js.map",
+    "static/js/2.8b77c9df.chunk.js": "/React-Seasons-App/static/js/2.8b77c9df.chunk.js",
+    "static/js/2.8b77c9df.chunk.js.map": "/React-Seasons-App/static/js/2.8b77c9df.chunk.js.map",
+    "index.html": "/React-Seasons-App/index.html",
+    "precache-manifest.d4280f4ee95b06ce1962aec8602bc9b6.js": "/React-Seasons-App/precache-manifest.d4280f4ee95b06ce1962aec8602bc9b6.js",
+    "service-worker.js": "/React-Seasons-App/service-worker.js",
+    "static/css/main.6d1caad8.chunk.css.map": "/React-Seasons-App/static/css/main.6d1caad8.chunk.css.map",
+    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/React-Seasons-App/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99f6d28.js",
+    "static/js/2.8b77c9df.chunk.js",
+    "static/css/main.6d1caad8.chunk.css",
+    "static/js/main.81f9b831.chunk.js"
+  ]
+}
